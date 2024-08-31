@@ -1,5 +1,10 @@
 # emoji-memory
 
+
+
+ [PLAY GAME](https://emoji-memory.vercel.app/).
+
+
 ## Project setup
 ```
 npm install
