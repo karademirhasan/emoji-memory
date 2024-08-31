@@ -2,8 +2,7 @@
 
 
 
- [PLAY GAME](https://emoji-memory.vercel.app/){target="_blank"}
-
+ [PLAY GAME](https://emoji-memory.vercel.app/)
 
 ## Project setup
 ```
